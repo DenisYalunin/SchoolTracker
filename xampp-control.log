@@ -1,0 +1,394 @@
+13:47:11  [main] 	Initializing Control Panel
+13:47:11  [main] 	Windows Version:  Home  64-bit
+13:47:11  [main] 	XAMPP Version: 8.2.4
+13:47:11  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13:47:11  [main] 	Running with Administrator rights - good!
+13:47:11  [main] 	XAMPP Installation Directory: "f:\site\"
+13:47:11  [main] 	Checking for prerequisites
+13:47:11  [main] 	All prerequisites found
+13:47:11  [main] 	Initializing Modules
+13:47:11  [Apache] 	Apache Service detected with wrong path
+13:47:11  [Apache] 	Change XAMPP Apache and Control Panel settings or
+13:47:11  [Apache] 	Uninstall/disable the other service manually first
+13:47:11  [Apache] 	Found Path: "C:\123\apache\bin\httpd.exe" -k runservice
+13:47:11  [Apache] 	Expected Path: "f:\site\apache\bin\httpd.exe" -k runservice
+13:47:11  [mysql] 	MySQL Service detected with wrong path
+13:47:11  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+13:47:11  [mysql] 	Uninstall/disable the other service manually first
+13:47:11  [mysql] 	Found Path: C:\123\mysql\bin\mysqld.exe --defaults-file=c:\123\mysql\bin\my.ini mysql
+13:47:11  [mysql] 	Expected Path: f:\site\mysql\bin\mysqld.exe --defaults-file=f:\site\mysql\bin\my.ini mysql
+13:47:11  [main] 	Starting Check-Timer
+13:47:11  [main] 	Control Panel Ready
+13:47:21  [Apache] 	Attempting to start Apache service...
+13:47:26  [mysql] 	Attempting to start MySQL service...
+13:47:30  [main] 	Executing "services.msc"
+13:50:05  [main] 	Deinitializing Modules
+13:50:05  [main] 	Deinitializing Control Panel
+
+13:51:15  [main] 	Initializing Control Panel
+13:51:15  [main] 	Windows Version:  Home  64-bit
+13:51:15  [main] 	XAMPP Version: 8.2.4
+13:51:15  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13:51:15  [main] 	Running with Administrator rights - good!
+13:51:15  [main] 	XAMPP Installation Directory: "f:\site\"
+13:51:15  [main] 	Checking for prerequisites
+13:51:15  [main] 	All prerequisites found
+13:51:15  [main] 	Initializing Modules
+13:51:15  [Apache] 	Apache Service detected with wrong path
+13:51:15  [Apache] 	Change XAMPP Apache and Control Panel settings or
+13:51:15  [Apache] 	Uninstall/disable the other service manually first
+13:51:15  [Apache] 	Found Path: "C:\123\apache\bin\httpd.exe" -k runservice
+13:51:15  [Apache] 	Expected Path: "f:\site\apache\bin\httpd.exe" -k runservice
+13:51:15  [mysql] 	MySQL Service detected with wrong path
+13:51:15  [mysql] 	Change XAMPP MySQL and Control Panel settings or
+13:51:15  [mysql] 	Uninstall/disable the other service manually first
+13:51:15  [mysql] 	Found Path: C:\123\mysql\bin\mysqld.exe --defaults-file=c:\123\mysql\bin\my.ini mysql
+13:51:15  [mysql] 	Expected Path: f:\site\mysql\bin\mysqld.exe --defaults-file=f:\site\mysql\bin\my.ini mysql
+13:51:15  [main] 	Starting Check-Timer
+13:51:15  [main] 	Control Panel Ready
+13:51:18  [Apache] 	Uninstalling service...
+13:51:18  [Apache] 	Successful!
+13:51:20  [mysql] 	Uninstalling service...
+13:51:22  [mysql] 	Successful!
+13:51:25  [Apache] 	Installing service...
+13:51:28  [Apache] 	Successful!
+13:51:30  [mysql] 	Installing service...
+13:51:30  [mysql] 	Successful!
+13:51:32  [Apache] 	Attempting to start Apache service...
+13:51:33  [Apache] 	Status change detected: running
+13:51:35  [mysql] 	Attempting to start MySQL service...
+13:51:35  [mysql] 	Status change detected: running
+16:28:12  [Apache] 	Attempting to stop Apache service...
+16:28:14  [mysql] 	Attempting to stop MySQL service...
+16:28:16  [mysql] 	Status change detected: stopped
+16:28:17  [Apache] 	Status change detected: stopped
+16:28:25  [Apache] 	Attempting to start Apache service...
+16:28:26  [mysql] 	Attempting to start MySQL service...
+16:28:26  [Apache] 	Status change detected: running
+16:28:27  [mysql] 	Status change detected: running
+17:59:35  [main] 	Executing "f:\site\"
+18:19:15  [main] 	Deinitializing Modules
+18:19:15  [main] 	Deinitializing Control Panel
+
+22:17:23  [main] 	Initializing Control Panel
+22:17:23  [main] 	Windows Version:  Home  64-bit
+22:17:23  [main] 	XAMPP Version: 8.2.4
+22:17:23  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+22:17:23  [main] 	Running with Administrator rights - good!
+22:17:23  [main] 	XAMPP Installation Directory: "f:\site\"
+22:17:23  [main] 	Checking for prerequisites
+22:17:23  [main] 	All prerequisites found
+22:17:23  [main] 	Initializing Modules
+22:17:23  [Apache] 	XAMPP Apache Service is already running on port 80
+22:17:23  [Apache] 	XAMPP Apache Service is already running on port 443
+22:17:23  [mysql] 	XAMPP MySQL Service is already running on port 3306
+22:17:23  [main] 	Starting Check-Timer
+22:17:23  [main] 	Control Panel Ready
+1:48:48  [Apache] 	Attempting to stop Apache service...
+1:48:48  [mysql] 	Attempting to stop MySQL service...
+1:48:51  [mysql] 	Status change detected: stopped
+1:48:52  [Apache] 	Status change detected: stopped
+1:48:56  [main] 	Deinitializing Modules
+1:48:56  [main] 	Deinitializing Control Panel
+
+19:09:28  [main] 	Initializing Control Panel
+19:09:28  [main] 	Windows Version:  Home  64-bit
+19:09:28  [main] 	XAMPP Version: 8.2.4
+19:09:28  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:09:28  [main] 	Running with Administrator rights - good!
+19:09:28  [main] 	XAMPP Installation Directory: "f:\site\"
+19:09:28  [main] 	Checking for prerequisites
+19:09:29  [main] 	All prerequisites found
+19:09:29  [main] 	Initializing Modules
+19:09:29  [main] 	Starting Check-Timer
+19:09:29  [main] 	Control Panel Ready
+19:09:32  [Apache] 	Attempting to start Apache service...
+19:09:33  [mysql] 	Attempting to start MySQL service...
+19:09:33  [Apache] 	Status change detected: running
+19:09:34  [mysql] 	Status change detected: running
+19:13:08  [Apache] 	Attempting to stop Apache service...
+19:13:09  [mysql] 	Attempting to stop MySQL service...
+19:13:11  [Apache] 	Status change detected: stopped
+19:13:11  [mysql] 	Status change detected: stopped
+19:13:14  [main] 	Deinitializing Modules
+19:13:14  [main] 	Deinitializing Control Panel
+
+21:30:20  [main] 	Initializing Control Panel
+21:30:20  [main] 	Windows Version:  Home  64-bit
+21:30:20  [main] 	XAMPP Version: 8.2.4
+21:30:20  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+21:30:20  [main] 	Running with Administrator rights - good!
+21:30:20  [main] 	XAMPP Installation Directory: "f:\site\"
+21:30:20  [main] 	Checking for prerequisites
+21:30:22  [main] 	All prerequisites found
+21:30:22  [main] 	Initializing Modules
+21:30:22  [mysql] 	XAMPP MySQL Service is already running on port 3306
+21:30:22  [main] 	Starting Check-Timer
+21:30:22  [main] 	Control Panel Ready
+21:30:26  [Apache] 	Attempting to start Apache service...
+21:30:29  [Apache] 	Status change detected: running
+23:43:43  [Apache] 	Attempting to stop Apache service...
+23:43:44  [mysql] 	Attempting to stop MySQL service...
+23:43:45  [mysql] 	Status change detected: stopped
+23:43:46  [Apache] 	Status change detected: stopped
+23:43:55  [main] 	Deinitializing Modules
+23:43:55  [main] 	Deinitializing Control Panel
+
+1:58:20  [main] 	Initializing Control Panel
+1:58:20  [main] 	Windows Version:  Home  64-bit
+1:58:20  [main] 	XAMPP Version: 8.2.4
+1:58:20  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:58:20  [main] 	Running with Administrator rights - good!
+1:58:20  [main] 	XAMPP Installation Directory: "f:\site\"
+1:58:20  [main] 	Checking for prerequisites
+1:58:21  [main] 	All prerequisites found
+1:58:21  [main] 	Initializing Modules
+1:58:21  [main] 	Starting Check-Timer
+1:58:21  [main] 	Control Panel Ready
+1:58:25  [Apache] 	Attempting to start Apache service...
+1:58:28  [Apache] 	Status change detected: running
+1:58:29  [mysql] 	Attempting to start MySQL service...
+1:58:30  [mysql] 	Status change detected: running
+3:40:18  [Apache] 	Attempting to stop Apache service...
+3:40:19  [mysql] 	Attempting to stop MySQL service...
+3:40:21  [Apache] 	Status change detected: stopped
+3:40:21  [mysql] 	Status change detected: stopped
+3:40:29  [main] 	Deinitializing Modules
+3:40:29  [main] 	Deinitializing Control Panel
+
+22:13:44  [main] 	Initializing Control Panel
+22:13:44  [main] 	Windows Version:  Home  64-bit
+22:13:44  [main] 	XAMPP Version: 8.2.4
+22:13:44  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+22:13:44  [main] 	Running with Administrator rights - good!
+22:13:44  [main] 	XAMPP Installation Directory: "f:\site\"
+22:13:44  [main] 	Checking for prerequisites
+22:13:45  [main] 	All prerequisites found
+22:13:45  [main] 	Initializing Modules
+22:13:46  [main] 	Starting Check-Timer
+22:13:46  [main] 	Control Panel Ready
+22:14:24  [Apache] 	Attempting to start Apache service...
+22:14:25  [mysql] 	Attempting to start MySQL service...
+22:14:27  [mysql] 	Status change detected: running
+22:14:28  [Apache] 	Status change detected: running
+6:34:13  [main] 	Deinitializing Modules
+6:34:13  [main] 	Deinitializing Control Panel
+
+4:54:18  [main] 	Initializing Control Panel
+4:54:18  [main] 	Windows Version:  Home  64-bit
+4:54:18  [main] 	XAMPP Version: 8.2.4
+4:54:18  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+4:54:18  [main] 	You are not running with administrator rights! This will work for
+4:54:18  [main] 	most application stuff but whenever you do something with services
+4:54:18  [main] 	there will be a security dialogue or things will break! So think 
+4:54:18  [main] 	about running this application with administrator rights!
+4:54:18  [main] 	XAMPP Installation Directory: "f:\site\"
+4:54:18  [main] 	Checking for prerequisites
+4:54:19  [main] 	All prerequisites found
+4:54:19  [main] 	Initializing Modules
+4:54:19  [Apache] 	XAMPP Apache Service is already running on port 80
+4:54:19  [Apache] 	XAMPP Apache Service is already running on port 443
+4:54:19  [mysql] 	XAMPP MySQL Service is already running on port 3306
+4:54:19  [main] 	Starting Check-Timer
+4:54:19  [main] 	Control Panel Ready
+8:46:39  [Apache] 	Attempting to stop Apache service...
+8:46:39  [mysql] 	Attempting to stop MySQL service...
+8:46:43  [main] 	Deinitializing Modules
+8:46:43  [main] 	Deinitializing Control Panel
+
+20:04:57  [main] 	Initializing Control Panel
+20:04:57  [main] 	Windows Version:  Home  64-bit
+20:04:57  [main] 	XAMPP Version: 8.2.4
+20:04:57  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:04:57  [main] 	Running with Administrator rights - good!
+20:04:57  [main] 	XAMPP Installation Directory: "f:\site\"
+20:04:57  [main] 	Checking for prerequisites
+20:04:59  [main] 	All prerequisites found
+20:04:59  [main] 	Initializing Modules
+20:04:59  [mysql] 	XAMPP MySQL Service is already running on port 3306
+20:04:59  [main] 	Starting Check-Timer
+20:04:59  [main] 	Control Panel Ready
+20:05:02  [Apache] 	Attempting to start Apache service...
+20:05:03  [Apache] 	Status change detected: running
+22:42:23  [main] 	Deinitializing Modules
+22:42:23  [main] 	Deinitializing Control Panel
+
+19:04:15  [main] 	Initializing Control Panel
+19:04:15  [main] 	Windows Version:  Home  64-bit
+19:04:15  [main] 	XAMPP Version: 8.2.4
+19:04:15  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+19:04:15  [main] 	Running with Administrator rights - good!
+19:04:15  [main] 	XAMPP Installation Directory: "f:\site\"
+19:04:15  [main] 	Checking for prerequisites
+19:04:16  [main] 	All prerequisites found
+19:04:16  [main] 	Initializing Modules
+19:04:16  [Apache] 	XAMPP Apache Service is already running on port 80
+19:04:16  [Apache] 	XAMPP Apache Service is already running on port 443
+19:04:16  [mysql] 	XAMPP MySQL Service is already running on port 3306
+19:04:16  [main] 	Starting Check-Timer
+19:04:16  [main] 	Control Panel Ready
+19:12:38  [Apache] 	Attempting to stop Apache service...
+19:12:39  [mysql] 	Attempting to stop MySQL service...
+19:12:42  [Apache] 	Status change detected: stopped
+19:12:43  [mysql] 	Status change detected: stopped
+19:15:36  [Apache] 	Attempting to start Apache service...
+19:15:37  [Apache] 	Status change detected: running
+19:15:41  [mysql] 	Attempting to start MySQL service...
+19:15:42  [mysql] 	Status change detected: running
+19:21:50  [Apache] 	Attempting to stop Apache service...
+19:21:50  [mysql] 	Attempting to stop MySQL service...
+19:21:52  [mysql] 	Status change detected: stopped
+19:22:14  [mysql] 	Attempting to start MySQL service...
+19:22:14  [mysql] 	Status change detected: running
+19:22:20  [Apache] 	Status change detected: stopped
+19:23:52  [Apache] 	Attempting to start Apache service...
+19:23:52  [Apache] 	Status change detected: running
+19:28:50  [mysql] 	Attempting to stop MySQL service...
+19:28:52  [mysql] 	Status change detected: stopped
+19:28:53  [mysql] 	Attempting to start MySQL service...
+19:28:54  [mysql] 	Status change detected: running
+22:44:48  [Apache] 	Attempting to stop Apache service...
+22:44:49  [mysql] 	Attempting to stop MySQL service...
+22:44:50  [mysql] 	Status change detected: stopped
+22:44:51  [Apache] 	Status change detected: stopped
+22:45:04  [main] 	Deinitializing Modules
+22:45:04  [main] 	Deinitializing Control Panel
+
+21:52:38  [main] 	Initializing Control Panel
+21:52:38  [main] 	Windows Version:  Home  64-bit
+21:52:38  [main] 	XAMPP Version: 8.2.4
+21:52:38  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+21:52:38  [main] 	Running with Administrator rights - good!
+21:52:38  [main] 	XAMPP Installation Directory: "f:\site\"
+21:52:38  [main] 	Checking for prerequisites
+21:52:39  [main] 	All prerequisites found
+21:52:39  [main] 	Initializing Modules
+21:52:39  [main] 	Starting Check-Timer
+21:52:39  [main] 	Control Panel Ready
+21:52:43  [Apache] 	Attempting to start Apache service...
+21:52:45  [mysql] 	Attempting to start MySQL service...
+21:52:46  [Apache] 	Status change detected: running
+21:52:46  [mysql] 	Status change detected: running
+1:28:10  [Apache] 	Attempting to stop Apache service...
+1:28:11  [mysql] 	Attempting to stop MySQL service...
+1:28:14  [Apache] 	Status change detected: stopped
+1:28:14  [mysql] 	Status change detected: stopped
+2:19:31  [main] 	Deinitializing Modules
+2:19:31  [main] 	Deinitializing Control Panel
+
+20:03:53  [main] 	Initializing Control Panel
+20:03:53  [main] 	Windows Version:  Home  64-bit
+20:03:53  [main] 	XAMPP Version: 8.2.4
+20:03:53  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+20:03:53  [main] 	Running with Administrator rights - good!
+20:03:53  [main] 	XAMPP Installation Directory: "f:\site\"
+20:03:53  [main] 	Checking for prerequisites
+20:03:54  [main] 	All prerequisites found
+20:03:54  [main] 	Initializing Modules
+20:03:54  [Apache] 	XAMPP Apache Service is already running on port 80
+20:03:54  [Apache] 	XAMPP Apache Service is already running on port 443
+20:03:54  [mysql] 	XAMPP MySQL Service is already running on port 3306
+20:03:54  [main] 	Starting Check-Timer
+20:03:54  [main] 	Control Panel Ready
+8:02:34  [main] 	Deinitializing Modules
+8:02:34  [main] 	Deinitializing Control Panel
+
+1:54:02  [main] 	Initializing Control Panel
+1:54:02  [main] 	Windows Version:  Home  64-bit
+1:54:02  [main] 	XAMPP Version: 8.2.4
+1:54:02  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:54:02  [main] 	Running with Administrator rights - good!
+1:54:02  [main] 	XAMPP Installation Directory: "f:\site\"
+1:54:02  [main] 	Checking for prerequisites
+1:54:04  [main] 	All prerequisites found
+1:54:04  [main] 	Initializing Modules
+1:54:04  [mysql] 	XAMPP MySQL Service is already running on port 3306
+1:54:04  [main] 	Starting Check-Timer
+1:54:04  [main] 	Control Panel Ready
+1:54:06  [Apache] 	Attempting to start Apache service...
+1:54:08  [Apache] 	Status change detected: running
+4:16:31  [main] 	Deinitializing Modules
+4:16:31  [main] 	Deinitializing Control Panel
+
+13:42:44  [main] 	Initializing Control Panel
+13:42:44  [main] 	Windows Version:  Home  64-bit
+13:42:44  [main] 	XAMPP Version: 8.2.4
+13:42:44  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13:42:44  [main] 	Running with Administrator rights - good!
+13:42:44  [main] 	XAMPP Installation Directory: "f:\site\"
+13:42:44  [main] 	Checking for prerequisites
+13:42:44  [main] 	All prerequisites found
+13:42:44  [main] 	Initializing Modules
+13:42:44  [Apache] 	XAMPP Apache Service is already running on port 80
+13:42:44  [Apache] 	XAMPP Apache Service is already running on port 443
+13:42:44  [mysql] 	XAMPP MySQL Service is already running on port 3306
+13:42:44  [main] 	Starting Check-Timer
+13:42:44  [main] 	Control Panel Ready
+17:15:34  [main] 	Deinitializing Modules
+17:15:34  [main] 	Deinitializing Control Panel
+
+1:48:39  [main] 	Initializing Control Panel
+1:48:39  [main] 	Windows Version:  Home  64-bit
+1:48:39  [main] 	XAMPP Version: 8.2.4
+1:48:39  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+1:48:39  [main] 	Running with Administrator rights - good!
+1:48:39  [main] 	XAMPP Installation Directory: "f:\site\"
+1:48:39  [main] 	Checking for prerequisites
+1:48:39  [main] 	All prerequisites found
+1:48:39  [main] 	Initializing Modules
+1:48:39  [main] 	Starting Check-Timer
+1:48:39  [main] 	Control Panel Ready
+1:48:43  [Apache] 	Attempting to start Apache service...
+1:48:46  [Apache] 	Status change detected: running
+1:48:50  [mysql] 	Attempting to start MySQL service...
+1:48:51  [mysql] 	Status change detected: running
+1:50:00  [main] 	Deinitializing Modules
+1:50:00  [main] 	Deinitializing Control Panel
+
+3:00:13  [main] 	Initializing Control Panel
+3:00:13  [main] 	Windows Version:  Home  64-bit
+3:00:13  [main] 	XAMPP Version: 8.2.4
+3:00:13  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+3:00:13  [main] 	Running with Administrator rights - good!
+3:00:13  [main] 	XAMPP Installation Directory: "f:\site\"
+3:00:13  [main] 	Checking for prerequisites
+3:00:13  [main] 	All prerequisites found
+3:00:13  [main] 	Initializing Modules
+3:00:13  [Apache] 	XAMPP Apache Service is already running on port 80
+3:00:13  [Apache] 	XAMPP Apache Service is already running on port 443
+3:00:13  [mysql] 	XAMPP MySQL Service is already running on port 3306
+3:00:13  [main] 	Starting Check-Timer
+3:00:13  [main] 	Control Panel Ready
+3:01:40  [main] 	Executing "f:\site\"
+3:01:59  [main] 	Deinitializing Modules
+3:01:59  [main] 	Deinitializing Control Panel
+
+3:03:53  [main] 	Initializing Control Panel
+3:03:53  [main] 	Windows Version:  Home  64-bit
+3:03:53  [main] 	XAMPP Version: 8.2.4
+3:03:53  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+3:03:53  [main] 	Running with Administrator rights - good!
+3:03:53  [main] 	XAMPP Installation Directory: "f:\site\"
+3:03:53  [main] 	Checking for prerequisites
+3:03:55  [main] 	All prerequisites found
+3:03:55  [main] 	Initializing Modules
+3:03:55  [mysql] 	XAMPP MySQL Service is already running on port 3306
+3:03:56  [main] 	Starting Check-Timer
+3:03:56  [main] 	Control Panel Ready
+3:04:00  [Apache] 	Attempting to start Apache service...
+3:04:01  [Apache] 	Status change detected: running
+3:25:23  [Apache] 	Attempting to stop Apache service...
+3:25:25  [mysql] 	Attempting to stop MySQL service...
+3:25:27  [mysql] 	Status change detected: stopped
+3:25:54  [Apache] 	Status change detected: stopped
+3:26:10  [Apache] 	Attempting to start Apache service...
+3:26:10  [Apache] 	Status change detected: running
+3:26:11  [mysql] 	Attempting to start MySQL service...
+3:26:12  [mysql] 	Status change detected: running
+3:32:56  [Apache] 	Attempting to stop Apache service...
+3:32:57  [mysql] 	Attempting to stop MySQL service...
+3:32:59  [Apache] 	Status change detected: stopped
+3:33:00  [mysql] 	Status change detected: stopped
+3:33:07  [main] 	Deinitializing Modules
+3:33:07  [main] 	Deinitializing Control Panel
+

@@ -1,0 +1,208 @@
+# Translation of Plugins - ImageMagick Engine - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - ImageMagick Engine - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-29 10:11:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - ImageMagick Engine - Stable (latest release)\n"
+
+#: imagemagick-engine.php:1193
+msgid "Adds interlace option to ImageMagick when images are processed."
+msgstr "Добавляет параметр чересстрочной развертки в ImageMagick при обработке изображений."
+
+#: imagemagick-engine.php:1186
+msgid "Image interlace?"
+msgstr "Чересстрочная развертка?"
+
+#: imagemagick-engine.php:148
+msgid "Medium Large"
+msgstr "Средне большой"
+
+#. Author URI of the plugin
+msgid "https://orangelab.com/"
+msgstr "https://orangelab.com/"
+
+#. Author of the plugin
+msgid "Orangelab"
+msgstr "Orangelab"
+
+#: imagemagick-engine.php:861 imagemagick-engine.php:1129
+msgid "Settings"
+msgstr "Настройки"
+
+#: imagemagick-engine.php:1234
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: imagemagick-engine.php:146
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: imagemagick-engine.php:1202
+msgid "Size"
+msgstr "Размер"
+
+#: imagemagick-engine.php:1085
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Чтобы продолжить, вы должны включить Javascript в браузере!"
+
+#: imagemagick-engine.php:843
+msgid "All done!"
+msgstr "Все готово!"
+
+#. Description of the plugin
+msgid "Improve the quality of re-sized images by replacing standard GD library with ImageMagick"
+msgstr "Повышает качество изображений при изменении размеров, заменяя стандартную библиотеку GD на ImageMagick"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/imagemagick-engine/"
+msgstr "https://wordpress.org/plugins/imagemagick-engine/"
+
+#. Plugin Name of the plugin
+msgid "ImageMagick Engine"
+msgstr "ImageMagick Engine"
+
+#: imagemagick-engine.php:1201
+msgid "Quality"
+msgstr "Качество"
+
+#: imagemagick-engine.php:1200
+msgid "Optimize for"
+msgstr "Оптимизировать для"
+
+#: imagemagick-engine.php:1182
+msgid "Set to 0-100. Higher value gives better image quality but larger file size. Leave empty for default value, computed dynamically."
+msgstr "Установите от 0 до 100. Более высокое значение дает лучшее качество изображения, но больший размер файла. Оставьте пустым для значения по умолчанию, вычисляемого динамически."
+
+#: imagemagick-engine.php:1181
+msgid "Optimize for size"
+msgstr "Оптимизировать для размера"
+
+#: imagemagick-engine.php:1203
+msgid "None (use WP instead)"
+msgstr "Нет (Используйте WP)"
+
+#: imagemagick-engine.php:1180
+msgid "Optimize for quality"
+msgstr "Оптимизировано для качества"
+
+#: imagemagick-engine.php:1178
+msgid "ImageMagick quality"
+msgstr "Качество ImageMagick"
+
+#: imagemagick-engine.php:1173
+msgid "Test path"
+msgstr "Тестовая папка"
+
+#: imagemagick-engine.php:1171
+msgid "Testing command..."
+msgstr "Тестовая команда..."
+
+#: imagemagick-engine.php:1170
+msgid "Command not found"
+msgstr "Команда не найдена"
+
+#: imagemagick-engine.php:1167
+msgid "ImageMagick path"
+msgstr "Папка ImageMagick"
+
+#: imagemagick-engine.php:1163
+msgid "Imagick PHP module not found"
+msgstr "Не найден модуль PHP Imagick"
+
+#: imagemagick-engine.php:1163
+msgid "Imagick PHP module found"
+msgstr "Найден модуль PHP Imagick"
+
+#: imagemagick-engine.php:1144
+msgid "Image engine"
+msgstr "Image engine"
+
+#: imagemagick-engine.php:1133
+msgid "Enable enhanced image engine"
+msgstr "Включить улучшенный Image engine"
+
+#: imagemagick-engine.php:1084 imagemagick-engine.php:1086
+msgid "Regenerating images"
+msgstr "Пересоздание изображений"
+
+#: imagemagick-engine.php:1120
+msgid "(this can take a long time)"
+msgstr "(может занять длительное время)"
+
+#: imagemagick-engine.php:1119
+msgid "Regenerate"
+msgstr "Пересоздание"
+
+#: imagemagick-engine.php:1116
+msgid "Resize will use standard WordPress functions."
+msgstr "При изменении размера будут использоваться стандартные функции WordPress."
+
+#: imagemagick-engine.php:1097
+msgid "Regenerate Images"
+msgstr "Пересоздать изображения"
+
+#: imagemagick-engine.php:1083
+msgid "ImageMagick Engine Settings"
+msgstr "Настройки ImageMagick Engine"
+
+#: imagemagick-engine.php:1077
+msgid "ImageMagick Engine is not enabled."
+msgstr "imageMagick Engine не включен."
+
+#: imagemagick-engine.php:1021
+msgid "Settings updated"
+msgstr "Настройки обновлены"
+
+#: imagemagick-engine.php:911
+msgid "Resize using ImageMagick Engine"
+msgstr "Изменить размер с помощью ImageMagick Engine"
+
+#: imagemagick-engine.php:907
+msgid "Resize image"
+msgstr "Изменить размер изображения"
+
+#: imagemagick-engine.php:846 imagemagick-engine.php:906
+msgid "Resized using ImageMagick Engine"
+msgstr "Размер изменен с помощью ImageMagick Engine"
+
+#: imagemagick-engine.php:845
+msgid "Failed to resize image!"
+msgstr "Не удалось изменить размер изображения!"
+
+#: imagemagick-engine.php:844
+msgid "Processed %d images"
+msgstr "Обработано %d изображений"
+
+#: imagemagick-engine.php:842
+msgid "You dont have any images to regenerate"
+msgstr "У вас нет изображений для пересоздания"
+
+#: imagemagick-engine.php:149
+msgid "Large"
+msgstr "Большой"
+
+#: imagemagick-engine.php:147
+msgid "Medium"
+msgstr "Средний"
+
+#: imagemagick-engine.php:67
+msgid "ImageMagick command-line"
+msgstr "Командная строка ImageMagick"
+
+#: imagemagick-engine.php:66 imagemagick-engine.php:1160
+msgid "Imagick PHP module"
+msgstr "Модуль Imagick PHP"
+
+#: imagemagick-engine.php:1112
+msgid "ImageMagick images too"
+msgstr "Включая изображения ImageMagick"
+
+#: imagemagick-engine.php:1102
+msgid "Sizes"
+msgstr "Размеры"
